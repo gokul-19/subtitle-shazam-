@@ -46,10 +46,10 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+```
 
----
 # 📄 Project Structure
-
+```bash
 /Subtitle-Shazam
 ├── /data
 │   └── zipfiles_reduced.parquet
@@ -63,7 +63,7 @@ streamlit run app.py
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 # 💡 Future Enhancements
 	•	🌐 Add multi-language support for subtitle search
 	•	📺 Enable real-time subtitle extraction from videos
