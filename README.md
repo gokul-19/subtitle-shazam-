@@ -77,8 +77,11 @@ A huge thanks to Kanav Bansal Sir and Innomatics Research Labs for their continu
 # 📬 Contact
 
 Feel free to connect and explore more about this project:
+
 👤 Gokul
+
 📧 Email Me:- gorthigokul77@gmail.com
+
 🔗 LinkedIn:- https://www.linkedin.com/in/gokul-g-a18887270/
 
 # 📢 License
